@@ -1,0 +1,1 @@
+{ "name": "chessfork", "version": "1.0.0", "description": "A complete chess.com clone project", "main": "src/app.js", "scripts": { "start": "open index.html" }, "dependencies": {}, "devDependencies": {}, "license": "MIT" }
